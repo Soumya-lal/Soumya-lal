@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋 I'm Soumya Lal 💜</h1>
+<h1 align="center">Hey there 👋 I'm Soumya Lal 🐣</h1>
 
 <p align="center">
-  A passionate soul who's here to build, learn & make some damn impact 💥<br>
+  A passionate soul who's here to build, learn & make impact 💥<br>
   💻 Tech lover | 💡 Change maker | 🎯 Goal chaser
 </p>
 
