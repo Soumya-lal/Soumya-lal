@@ -38,7 +38,7 @@
 
 <p align="center">
   ✨ Always learning, always glowing ✨ <br>
-  Let’s build something f*cking amazing together 💻🔥
+  Let’s build something amazing together 💻🔥
 </p>
 
 
