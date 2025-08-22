@@ -10,7 +10,7 @@
 ### 🔥 About Me
 - 💫 I’m @Soumya-lal
 - 👩‍💻 I love building apps that make lives better
-- 🌱 Currently diving deep into **DSA with Python** & leveling up my **CSS** game
+- 🌱 Currently diving deep into **DSA with Python** , leveling up my **CSS** game and starting to learn **C**
 - 🧠 Already conquered **Python** & **HTML** 
 - 🛠️ Exploring the magic of problem solving & creative tech
 
