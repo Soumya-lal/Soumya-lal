@@ -10,15 +10,15 @@
 ### 🔥 About Me
 - 💫 I’m @Soumya-lal
 - 👩‍💻 I love building apps that make lives better
-- 🌱 Currently diving deep into **DSA with Python** , leveling up my **CSS** game and starting to learn **C**
-- 🧠 Already conquered **Python** & **HTML** 
+- 🌱 Currently diving deep into **DSA with Python** , leveling up my **C++** game and starting to learn **Javascript**
+- 🧠 Already conquered **Python**, **HTML5**, **CSS3** & **C**. 
 - 🛠️ Exploring the magic of problem solving & creative tech
 
 ---
 
 ### 💼 Skills & Stack
-- **Languages:** Python, HTML, CSS  
-- **Learning:** DSA, Frontend magic, Git & GitHub  
+- **Languages:** Python, HTML, CSS, C 
+- **Learning:** DSA, Frontend magic, Git & GitHub, C++ 
 - **Tools:** VS Code, Git, Chrome DevTools  
 - **Interests:** Web Dev, AI, Real-world Solutions
 
